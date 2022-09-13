@@ -1,0 +1,27 @@
+
+footer{
+    padding-top: 10px;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    height: 7vh;
+    width: 98.62vw;
+    border-right: 4px solid black;
+    width: 100%;
+}
+/* @keyframes translate {
+    from {
+        transform: translate(-20vw);
+    }
+
+    to {
+        transform: translate(20vw);
+    } 
+
+} */
+
+.copyright {
+    /* position: sticky; */
+    animation: translate 4s ease-in-out 0s infinite alternate none;
+    text-align: center;
+}
